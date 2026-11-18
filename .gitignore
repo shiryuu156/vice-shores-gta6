@@ -1,0 +1,6 @@
+# Vice Shores entry: never commit the kit (it lives inside the repo dir only
+# so the recorder could watch the build), build output, or dependencies.
+gta6-01-kit/
+out/
+node_modules/
+.DS_Store
